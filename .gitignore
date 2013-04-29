@@ -1,0 +1,14 @@
+cache/*
+log/*
+web/uploads/*
+config/databases.yml
+config/propel.ini
+data/sql/*
+lib/filter/base/*
+lib/form/base/*
+lib/model/om/*
+lib/model/map/*
+plugins/sfGuardPlugin/lib/*
+plugins/ncTrackerPlugin/lib/*
+plugins/ncPropelChangeLogBehaviorPlugin/lib/*
+
